@@ -7,6 +7,6 @@ namespace systemControlLyar
         public DbSet<StudentEntity> students { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlite("data.db");
+            => options.UseSqlite("path=data.db");
     }
 }
