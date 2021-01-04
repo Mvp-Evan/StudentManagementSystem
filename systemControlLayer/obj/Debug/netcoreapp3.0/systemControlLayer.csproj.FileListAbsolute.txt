@@ -47,3 +47,5 @@
 /home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csproj.CopyComplete
 /home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.dll
 /home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.pdb
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemControlLayer/bin/Debug/netcoreapp3.0/Humanizer.dll
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemControlLayer/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll

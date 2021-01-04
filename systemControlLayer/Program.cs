@@ -14,7 +14,7 @@ namespace systemControlLyar
                     id = 111,
                     name = "Evan",
                     passwd = "root",
-                    sex = true,
+                    sex = "male",
                     subject = "computer"
                 });
                 db.SaveChanges();

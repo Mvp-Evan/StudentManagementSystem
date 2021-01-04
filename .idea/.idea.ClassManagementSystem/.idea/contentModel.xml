@@ -28,7 +28,7 @@
         <e p="StudentEntity.cs" t="Include" />
         <e p="TeacherEntity.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="data.sqlite" t="Include" />
+        <e p="data.db" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">

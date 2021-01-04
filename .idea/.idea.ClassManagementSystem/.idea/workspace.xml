@@ -5,12 +5,51 @@
     <projectFile>systemControlLyar/systemControlLyar.csproj</projectFile>
     <projectFile>systemDisplayLayer/systemDisplayLayer.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="" />
+    <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="take back database file">
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/Humanizer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources/b0ba9977-61e1-47bb-8486-282a20e278db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources/b0ba9977-61e1-47bb-8486-282a20e278db.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/data.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/systemControlLayer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/systemControlLayer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/systemControlLayer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/systemControlLayer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/systemControlLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/systemControlLayer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemDisplayLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2B0EF7B-A8C3-4AF1-95CC-501C0131D7BA/96/2a850e4b/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
@@ -23,22 +62,29 @@
         <option value="$PROJECT_DIR$/ClassManagementSystem/Student.cs" />
         <option value="$PROJECT_DIR$/systemControlLyar/Program.cs" />
         <option value="$PROJECT_DIR$/systemDisplayLayer/Program.cs" />
-        <option value="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" />
         <option value="$PROJECT_DIR$/systemControlLayer/TeacherEntity.cs" />
         <option value="$PROJECT_DIR$/systemControlLayer/Class.cs" />
         <option value="$PROJECT_DIR$/systemControlLayer/EntityContext.cs" />
-        <option value="$PROJECT_DIR$/systemControlLayer/Program.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b8915633-b065-4c8c-8b01-6db706e36fc1/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console_1.sql" />
         <option value="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/Program.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console_3.sql" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lgE4ZA6yj3bDkRaAhpDnfxy1wO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34997258" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005485" />
@@ -115,6 +161,14 @@
       <workItem from="1608010153747" duration="1012000" />
       <workItem from="1609648815212" duration="6430000" />
     </task>
+    <task id="LOCAL-00001" summary="take back database file">
+      <created>1609766924981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609766924981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,19 +176,77 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="take back database file" />
+    <option name="LAST_COMMIT_MESSAGE" value="take back database file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="163" key="#HTTP_Proxy" timestamp="1608010849793">
       <screen x="0" y="0" width="1920" height="1003" />
     </state>
     <state x="665" y="163" key="#HTTP_Proxy/0.0.1920.1003@0.0.1920.1003" timestamp="1608010849793" />
-    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609655206603">
+    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609768388843">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1003@0.0.1920.1003" timestamp="1608011001876" />
-    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609655206603" />
+    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609768388843" />
     <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609651620824">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -144,22 +256,22 @@
     </state>
     <state x="686" y="192" key="FileChooserDialogImpl/0.0.1920.1003@0.0.1920.1003" timestamp="1608010997619" />
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1609655176606" />
-    <state width="1862" height="362" key="GridCell.Tab.0.bottom" timestamp="1609655245887">
+    <state width="1277" height="264" key="GridCell.Tab.0.bottom" timestamp="1609768428955">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.0.center" timestamp="1609655245886">
+    <state width="1277" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609768428955" />
+    <state width="1277" height="264" key="GridCell.Tab.0.center" timestamp="1609768428954">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245886" />
-    <state width="1862" height="362" key="GridCell.Tab.0.left" timestamp="1609655245886">
+    <state width="1277" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609768428954" />
+    <state width="1277" height="264" key="GridCell.Tab.0.left" timestamp="1609768428954">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245886" />
-    <state width="1862" height="362" key="GridCell.Tab.0.right" timestamp="1609655245886">
+    <state width="1277" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609768428954" />
+    <state width="1277" height="264" key="GridCell.Tab.0.right" timestamp="1609768428954">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245886" />
+    <state width="1277" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609768428954" />
     <state width="1862" height="362" key="GridCell.Tab.1.bottom" timestamp="1609655245887">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -236,9 +348,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="374" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1609653587557" />
-    <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1609654351511">
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1609766968200">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609654351511" />
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1609766968200" />
+    <state x="822" y="395" width="502" height="328" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609768332077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="822" y="395" width="502" height="328" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1609768332077" />
+    <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1609768321025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609768321025" />
   </component>
 </project>
