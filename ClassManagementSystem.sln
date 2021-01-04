@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemBusinessLayer", "systemBusinessLayer\systemBusinessLayer.csproj", "{F1058104-9D9A-451F-837B-FD672CCDD862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemControlLayer", "systemControlLayer\systemControlLayer.csproj", "{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemDisplayLayer", "systemDisplayLayer\systemDisplayLayer.csproj", "{D741F4F1-43B5-4464-A769-99C4212C1A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1058104-9D9A-451F-837B-FD672CCDD862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1058104-9D9A-451F-837B-FD672CCDD862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1058104-9D9A-451F-837B-FD672CCDD862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1058104-9D9A-451F-837B-FD672CCDD862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D741F4F1-43B5-4464-A769-99C4212C1A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D741F4F1-43B5-4464-A769-99C4212C1A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D741F4F1-43B5-4464-A769-99C4212C1A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D741F4F1-43B5-4464-A769-99C4212C1A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
