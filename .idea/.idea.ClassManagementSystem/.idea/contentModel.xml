@@ -10,8 +10,8 @@
       <e p="ClassManagementSystem.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="systemBusinessLayer" t="IncludeRecursive">
-        <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="bsiness" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -20,15 +20,26 @@
           </e>
         </e>
         <e p="systemBusinessLayer.csproj" t="IncludeRecursive" />
+        <e p="test" t="Include">
+          <e p="Program.cs" t="Include" />
+        </e>
       </e>
       <e p="systemControlLayer" t="IncludeRecursive">
-        <e p="Class.cs" t="Include" />
-        <e p="Program.cs" t="Include" />
-        <e p="StudentContext.cs" t="Include" />
-        <e p="StudentEntity.cs" t="Include" />
-        <e p="TeacherEntity.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="data.db" t="Include" />
+        <e p="entity" t="Include">
+          <e p="ClassEntity.cs" t="Include" />
+          <e p="EntityContext.cs" t="Include" />
+          <e p="StudentEntity.cs" t="Include" />
+          <e p="TeacherEntity.cs" t="Include" />
+        </e>
+        <e p="functionInterface" t="Include">
+          <e p="ClassFunctions.cs" t="Include" />
+          <e p="IClassFunctions.cs" t="Include" />
+          <e p="IStudentFunctions.cs" t="Include" />
+          <e p="ITeacherFunctions.cs" t="Include" />
+          <e p="StudentFunctions.cs" t="Include" />
+          <e p="TeacherFunctions.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -37,6 +48,9 @@
           </e>
         </e>
         <e p="systemControlLayer.csproj" t="IncludeRecursive" />
+        <e p="test" t="Include">
+          <e p="ControlLayerTest.cs" t="Include" />
+        </e>
       </e>
       <e p="systemDisplayLayer" t="IncludeRecursive">
         <e p="Program.cs" t="Include" />

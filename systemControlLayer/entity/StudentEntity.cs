@@ -7,5 +7,6 @@ namespace systemControlLyar
         public string subject { get; set; }
         public string sex { get; set; } 
         public string passwd { get; set; }
+        public int classId { get; set; }
     }
 }

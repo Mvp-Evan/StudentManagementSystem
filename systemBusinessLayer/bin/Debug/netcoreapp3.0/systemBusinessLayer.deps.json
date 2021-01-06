@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "systemBusinessLayer/1.0.0": {
+        "dependencies": {
+          "MSTest.TestFramework": "2.2.0-preview-20201126-03"
+        },
+        "runtime": {
+          "systemBusinessLayer.dll": {}
+        }
+      },
+      "MSTest.TestFramework/2.2.0-preview-20201126-03": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.5426.3"
+          },
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.5426.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "systemBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MSTest.TestFramework/2.2.0-preview-20201126-03": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YnrhBabObkyfVxWI2kfwNco+V3m1Rcjr+QFy5aFkHnm0DXEtHsg5pqRrkC+ONZh5A7s9TAOwOvmYsw0j6uHsBA==",
+      "path": "mstest.testframework/2.2.0-preview-20201126-03",
+      "hashPath": "mstest.testframework.2.2.0-preview-20201126-03.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.deps.json
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.runtimeconfig.json
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.runtimeconfig.dev.json
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.AssemblyInfoInputs.cache
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.AssemblyInfo.cs
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csproj.CopyComplete
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll
+/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb

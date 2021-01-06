@@ -10,12 +10,62 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="using data.db as database">
-      <change beforePath="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" afterDir="false" />
+    <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="delete some bad files">
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/entity/EntityContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/ClassFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/IClassFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/IStudentFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/ITeacherFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/StudentFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/functionInterface/TeacherFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemControlLayer/test/ControlLayerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/Debug/netcoreapp3.0/systemDisplayLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources/b0ba9977-61e1-47bb-8486-282a20e278db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources/b0ba9977-61e1-47bb-8486-282a20e278db.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassManagementSystem.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ClassManagementSystem.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/Class.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/entity/ClassEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/entity/StudentEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/TeacherEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/entity/TeacherEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/data.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/bin/Debug/netcoreapp3.0/systemControlLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/Debug/netcoreapp3.0/systemControlLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemControlLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemControlLayer/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemDisplayLayer/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +78,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2B0EF7B-A8C3-4AF1-95CC-501C0131D7BA/96/2a850e4b/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/systemControlLayer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1BA52DC0-B103-422E-BA91-AD87A1AA9FE3/9/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/systemControlLayer/test/ControlLayerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D2B0EF7B-A8C3-4AF1-95CC-501C0131D7BA/C/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9923427C-3BD2-4CEE-98FB-5431D155A58F/C/SqliteException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CCFD8A4-C358-4887-B52E-A57659FB6F76/8/Queryable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A310D888-CD33-4E41-BA23-939A9943ED39/A/SqliteDbContextOptionsBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2F22993E-2191-4253-8BC4-D1A5A5B4B7F2/35/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/A310D888-CD33-4E41-BA23-939A9943ED39/c4/f2e6f7fb/Microsoft.EntityFrameworkCore.Sqlite.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -38,15 +94,28 @@
         <option value="$PROJECT_DIR$/systemControlLyar/Program.cs" />
         <option value="$PROJECT_DIR$/systemDisplayLayer/Program.cs" />
         <option value="$PROJECT_DIR$/systemControlLayer/TeacherEntity.cs" />
-        <option value="$PROJECT_DIR$/systemControlLayer/Class.cs" />
-        <option value="$PROJECT_DIR$/systemControlLayer/EntityContext.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b8915633-b065-4c8c-8b01-6db706e36fc1/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console_1.sql" />
-        <option value="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" />
-        <option value="$PROJECT_DIR$/systemControlLayer/Program.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0ba9977-61e1-47bb-8486-282a20e278db/console_3.sql" />
         <option value="$PROJECT_DIR$/systemControlLayer/StudentContext.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/Program.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/Class.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/ControlLayerTest.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/EntityContext.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/StudentEntity.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/test/StudentFunctionTest.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/StudentFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/TeacherFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/IStudentFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/ITeacherFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/ClassFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/functionInterface/IClassFunctions.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/entity/StudentClassEntity.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/entity/EntityContext.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/entity/ClassEntity.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/entity/StudentEntity.cs" />
+        <option value="$PROJECT_DIR$/systemControlLayer/test/ControlLayerTest.cs" />
       </list>
     </option>
   </component>
@@ -66,7 +135,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SQLite" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.systemControlLyar">
@@ -135,6 +204,9 @@
       <updated>1608010145473</updated>
       <workItem from="1608010153747" duration="1012000" />
       <workItem from="1609648815212" duration="6430000" />
+      <workItem from="1609808258344" duration="716000" />
+      <workItem from="1609919291389" duration="6316000" />
+      <workItem from="1609932825045" duration="3916000" />
     </task>
     <task id="LOCAL-00001" summary="take back database file">
       <created>1609766924981</created>
@@ -150,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609768538503</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete some bad files">
+      <created>1609768917966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609768917966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,107 +297,151 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="take back database file" />
     <MESSAGE value="using data.db as database" />
-    <option name="LAST_COMMIT_MESSAGE" value="using data.db as database" />
+    <MESSAGE value="delete some bad files" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete some bad files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="163" key="#HTTP_Proxy" timestamp="1608010849793">
       <screen x="0" y="0" width="1920" height="1003" />
     </state>
     <state x="665" y="163" key="#HTTP_Proxy/0.0.1920.1003@0.0.1920.1003" timestamp="1608010849793" />
-    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609768388843">
+    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609920938538">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1003@0.0.1920.1003" timestamp="1608011001876" />
-    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609768388843" />
-    <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609651620824">
+    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920938538" />
+    <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609808492323" />
+    <state x="490" y="310" width="900" height="460" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609920421765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1609651620824" />
-    <state x="686" y="207" key="FileChooserDialogImpl" timestamp="1609655176606">
+    <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920421765" />
+    <state x="490" y="310" width="900" height="460" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1609808385022" />
+    <state x="686" y="207" key="FileChooserDialogImpl" timestamp="1609933226062">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="686" y="192" key="FileChooserDialogImpl/0.0.1920.1003@0.0.1920.1003" timestamp="1608010997619" />
-    <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1609655176606" />
-    <state width="1862" height="366" key="GridCell.Tab.0.bottom" timestamp="1609768666762">
+    <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920936145" />
+    <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1609933226062" />
+    <state width="1862" height="239" key="GridCell.Tab.0.bottom" timestamp="1609936398877">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609768666762" />
-    <state width="1862" height="366" key="GridCell.Tab.0.center" timestamp="1609768666761">
+    <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609936398877" />
+    <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="239" key="GridCell.Tab.0.center" timestamp="1609936398877">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609768666761" />
-    <state width="1862" height="366" key="GridCell.Tab.0.left" timestamp="1609768666761">
+    <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="239" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609936398877" />
+    <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
+    <state width="1862" height="239" key="GridCell.Tab.0.left" timestamp="1609936398876">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609768666761" />
-    <state width="1862" height="366" key="GridCell.Tab.0.right" timestamp="1609768666762">
+    <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="239" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609936398876" />
+    <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
+    <state width="1862" height="239" key="GridCell.Tab.0.right" timestamp="1609936398877">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609768666762" />
-    <state width="1862" height="362" key="GridCell.Tab.1.bottom" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="239" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609936398877" />
+    <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.1.bottom" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.1.center" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791491" />
+    <state width="1862" height="362" key="GridCell.Tab.1.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.1.center" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.1.left" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791491" />
+    <state width="1862" height="362" key="GridCell.Tab.1.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.1.left" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.1.right" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791491" />
+    <state width="1862" height="362" key="GridCell.Tab.1.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.1.right" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.2.bottom" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791491" />
+    <state width="1862" height="362" key="GridCell.Tab.1.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.2.bottom" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.2.center" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.2.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.2.center" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.2.left" timestamp="1609655245887">
+    <state width="1862" height="362" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.2.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.2.left" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245887" />
-    <state width="1862" height="362" key="GridCell.Tab.2.right" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791491" />
+    <state width="1862" height="362" key="GridCell.Tab.2.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
+    <state width="1862" height="362" key="GridCell.Tab.2.right" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.3.bottom" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.2.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.3.bottom" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.3.center" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.3.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.3.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.3.center" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.3.left" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.3.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.3.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.3.left" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.3.right" timestamp="1609655245888">
+    <state width="1862" height="362" key="GridCell.Tab.3.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.3.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.3.right" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245888" />
-    <state width="1862" height="362" key="GridCell.Tab.4.bottom" timestamp="1609655245889">
+    <state width="1862" height="362" key="GridCell.Tab.3.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.3.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974462" />
+    <state width="1862" height="362" key="GridCell.Tab.4.bottom" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245889" />
-    <state width="1862" height="362" key="GridCell.Tab.4.center" timestamp="1609655245889">
+    <state width="1862" height="362" key="GridCell.Tab.4.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791493" />
+    <state width="1862" height="362" key="GridCell.Tab.4.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974463" />
+    <state width="1862" height="362" key="GridCell.Tab.4.center" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245889" />
-    <state width="1862" height="362" key="GridCell.Tab.4.left" timestamp="1609655245889">
+    <state width="1862" height="362" key="GridCell.Tab.4.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791493" />
+    <state width="1862" height="362" key="GridCell.Tab.4.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974463" />
+    <state width="1862" height="362" key="GridCell.Tab.4.left" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245889" />
-    <state width="1862" height="362" key="GridCell.Tab.4.right" timestamp="1609655245889">
+    <state width="1862" height="362" key="GridCell.Tab.4.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791492" />
+    <state width="1862" height="362" key="GridCell.Tab.4.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974463" />
+    <state width="1862" height="362" key="GridCell.Tab.4.right" timestamp="1609925610813">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="362" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655245889" />
+    <state width="1862" height="362" key="GridCell.Tab.4.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
+    <state width="1862" height="362" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609808791493" />
+    <state width="1862" height="362" key="GridCell.Tab.4.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974463" />
     <state width="426" height="635" key="HiddenNamespacesPopup" timestamp="1609650181315">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -327,14 +450,23 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="455" y="212" width="1000" height="675" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1609649069814" />
-    <state x="374" y="77" key="SettingsEditor" timestamp="1609653587557">
+    <state x="374" y="77" key="SettingsEditor" timestamp="1609925131516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="374" y="77" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925131516" />
     <state x="374" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1609653587557" />
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1609768544716">
+    <state x="100" y="100" width="1720" height="880" key="VCS.FileHistoryDialog" timestamp="1609808974555">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="VCS.FileHistoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974555" />
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1609768922545">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1609768544716" />
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1609768922545" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1609919794697">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609919794697" />
     <state x="822" y="395" width="502" height="328" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609768332077">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -343,5 +475,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609768321025" />
+    <state x="661" y="436" width="598" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609919315590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="436" width="598" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609919315590" />
+    <state x="540" y="238" key="run.anything.popup" timestamp="1609924968218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="238" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609924968218" />
   </component>
 </project>
