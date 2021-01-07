@@ -4,14 +4,14 @@
     "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj": {}
   },
   "projects": {
-    "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj": {
+    "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/dataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj",
-        "projectName": "systemBusinessLayer",
-        "projectPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj",
+        "projectUniqueName": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/dataAccessLayer.csproj",
+        "projectName": "dataAccessLayer",
+        "projectPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/dataAccessLayer.csproj",
         "packagesPath": "/home/evan/.nuget/packages/",
-        "outputPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/",
+        "outputPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/evan/.nuget/NuGet/NuGet.Config"
@@ -35,6 +35,86 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/evan/.dotnet/dotnet-sdk-3.0.100-linux-x64/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj",
+        "projectName": "systemBusinessLayer",
+        "projectPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/systemBusinessLayer.csproj",
+        "packagesPath": "/home/evan/.nuget/packages/",
+        "outputPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/evan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/dataAccessLayer.csproj": {
+                "projectPath": "/home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/dataAccessLayer/dataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

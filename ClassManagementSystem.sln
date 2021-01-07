@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemBusinessLayer", "systemBusinessLayer\systemBusinessLayer.csproj", "{F1058104-9D9A-451F-837B-FD672CCDD862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemControlLayer", "systemControlLayer\systemControlLayer.csproj", "{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataAccessLayer", "dataAccessLayer\dataAccessLayer.csproj", "{B5E283FA-75D8-47D8-91EB-CFCE3AFF5626}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemDisplayLayer", "systemDisplayLayer\systemDisplayLayer.csproj", "{D741F4F1-43B5-4464-A769-99C4212C1A90}"
 EndProject
