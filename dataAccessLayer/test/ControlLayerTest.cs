@@ -10,9 +10,9 @@ namespace dataAccessLayer.test
         {
             //insertTest();
             //insertStudent();
-            //selectStudent(111);
+            selectStudent(111);
             //studentLogin();
-            addClass();
+            //addClass();
         }
         static void insertTest()
         {
