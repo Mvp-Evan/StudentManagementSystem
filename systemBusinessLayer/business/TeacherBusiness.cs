@@ -27,13 +27,43 @@ namespace ClassManagementSystem.business
 
         public bool TeacherLogin(int id, string passwd)
         {
-            return itf.TeacherLogin(id, passwd);
+            TeacherEntity teacher = itf.SelectTeacherById(id);
+
+            if (teacher != null)
+            {
+                if (teacher.passwd == passwd)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
+            }
         }
 
-        public void SelectTeacher(int id)
+        public string SelectTeacher(int id)
         {
             TeacherEntity teacher = itf.SelectTeacherById(id);
-            Console.WriteLine(teacher.ToString());
+            return teacher.ToString();
+        }
+
+        public bool DeleteTeacherById(int id)
+        {
+            TeacherEntity teacher = itf.SelectTeacherById(id);
+            if (teacher != null)
+            {
+                itf.DeleteTeacherById(id);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

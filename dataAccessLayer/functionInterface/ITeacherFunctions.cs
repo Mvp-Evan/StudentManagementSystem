@@ -7,6 +7,5 @@ namespace dataAccessLayer.functionInterface
         bool InsertTeacher(TeacherEntity student);
         TeacherEntity SelectTeacherById(int id);
         bool DeleteTeacherById(int id);
-        bool TeacherLogin(int id, string passwd);
     }
 }

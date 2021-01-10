@@ -39,6 +39,7 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="systemBusinessLayer" t="IncludeRecursive">
         <e p="Interface" t="Include">
+          <e p="IStudentBusiness.cs" t="Include" />
           <e p="ITeacherBusiness.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />

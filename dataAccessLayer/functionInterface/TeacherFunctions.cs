@@ -1,3 +1,4 @@
+using System;
 using dataAccessLayer.entity;
 
 namespace dataAccessLayer.functionInterface
@@ -36,19 +37,6 @@ namespace dataAccessLayer.functionInterface
             }
 
             return true;
-        }
-        
-        public bool TeacherLogin(int id, string passwd)
-        {
-            TeacherEntity teacher = SelectTeacherById(id);
-            if (teacher.passwd == passwd)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
         }
     }
 }
