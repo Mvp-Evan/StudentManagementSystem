@@ -260,7 +260,15 @@ namespace systemDisplayLayer
                         try
                         {
                             id = Int32.Parse(idTry);
-                            break;
+                            if (isb.StudentIsExists(id))
+                            {
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("This ID Is Not Exists! ");
+                            }
+                            
                         }
                         catch (Exception e)
                         {
@@ -309,14 +317,7 @@ namespace systemDisplayLayer
                         try
                         {
                             newId = Int32.Parse(newIdTry);
-                            if (isb.ChangeStudentId(id, newId))
-                            {
-                                Console.WriteLine("Student ID Changed Successful!");
-                            }
-                            else
-                            {
-                                Console.WriteLine("Student ID Changed Error, The " + id + " Is Not Exists or New ID Already Exists!");
-                            }
+                            isb.ChangeStudentId(id, newId);
                             break;
                         }
                         catch (Exception e)
@@ -326,19 +327,61 @@ namespace systemDisplayLayer
                             throw;
                         }
                     }
-                }else if (choice == 2)
+                }
+                else if (choice == 2)
                 {
-                    
-                }else if (choice == 3)
+                    string newName;
+                    Console.WriteLine("PLease Enter The New Name For This Student: ");
+                    newName = Console.ReadLine();
+                    isb.ChangeStudentName(id, newName);
+                    Console.WriteLine("Name Changed Successful! ");
+                }
+                else if (choice == 3)
                 {
-                    
-                }else if (choice == 4)
+                    string newSubject;
+                    Console.WriteLine("PLease Enter The New Subject: ");
+                    newSubject = Console.ReadLine();
+                    isb.ChangeStudentName(id, newSubject);
+                    Console.WriteLine("Subject Changed Successful!");
+                }
+                else if (choice == 4)
                 {
-                    
-                }else if (choice == 5)
+                    string newSex;
+                    Console.WriteLine("Please Enter The New Sex: ");
+                    newSex = Console.ReadLine();
+                    isb.ChangeStudentSex(id, newSex);
+                    Console.WriteLine("Sex Changed Successful!");
+                }
+                else if (choice == 5)
                 {
-                    
-                }else if (choice == 6)
+                    int newClassId;
+                    string newClassIdTry;
+                    while (true)
+                    {
+                        Console.WriteLine("Please Enter New Class ID: ");
+                        newClassIdTry = Console.ReadLine();
+                        try
+                        {
+                            newClassId = Int32.Parse(newClassIdTry);
+                            if (isb.AddStudentIntoClass(newClassId, id))
+                            {
+                                Console.WriteLine("Change Student Class Belong Successful!");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Changed Error, New Class ID Is Not Exists! ");
+                            }
+                            break;
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("Class ID Must Be A Number!");
+                            continue;
+                            throw;
+                        }
+                    }
+                }
+                else if (choice == 6)
                 {
                     break;
                 }

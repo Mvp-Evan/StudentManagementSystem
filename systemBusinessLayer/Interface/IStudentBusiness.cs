@@ -7,6 +7,12 @@ namespace ClassManagementSystem.Interface
          * This function interface can create a student entity and save into database by these param
          */
         public void CreateStudent(int id, string name, string subject, string sex);
+
+        /**
+         * @param id
+         * judge student if exists by id
+         */
+        public bool StudentIsExists(int id);
         
         /**
          * @param id
@@ -35,5 +41,23 @@ namespace ClassManagementSystem.Interface
          * check student if exists and check new id if already used
          */
         public bool ChangeStudentId(int id, int newId);
+
+        /**
+         * @param id, NewName
+         * change student name to a new name by id
+         */
+        public void ChangeStudentName(int id, string NewName);
+
+        /**
+         * @param id, subject
+         * change student subject to a new subject by id
+         */
+        public void ChangeStudentSubject(int id, string subject);
+
+        /**
+         * @param id, newSex
+         * change student sex to a new sex by id
+         */
+        public void ChangeStudentSex(int id, string newSex);
     }
 }

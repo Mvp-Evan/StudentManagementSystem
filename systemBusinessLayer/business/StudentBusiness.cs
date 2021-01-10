@@ -1,3 +1,4 @@
+using System.Runtime.CompilerServices;
 using ClassManagementSystem.Interface;
 using dataAccessLayer.entity;
 using dataAccessLayer.functionInterface;
@@ -16,7 +17,13 @@ namespace ClassManagementSystem.business
             .AddSingleton<IClassFunctions, ClassFunctions>()
             .BuildServiceProvider()
             .GetService<IClassFunctions>();
-        
+
+        public bool StudentIsExists(int id)
+        {
+            StudentEntity student = isf.SelectStudentById(id);
+            return student != null;
+        }
+
         public void CreateStudent(int id, string name, string subject, string sex)
         {
             StudentEntity student = new StudentEntity
@@ -32,7 +39,7 @@ namespace ClassManagementSystem.business
         public bool DeleteStudentById(int id)
         {
             StudentEntity student = isf.SelectStudentById(id);
-            
+
             if (student != null)
             {
                 isf.DeleteStudentById(id);
@@ -48,7 +55,7 @@ namespace ClassManagementSystem.business
         {
             ClassEntity classEntity = icf.SelectClass(classId);
             StudentEntity student = isf.SelectStudentById(studentId);
-            
+
             if (classEntity != null && student != null)
             {
                 isf.DeleteStudentById(studentId);
@@ -82,7 +89,7 @@ namespace ClassManagementSystem.business
         {
             StudentEntity student = isf.SelectStudentById(id);
             StudentEntity notExistStudent = isf.SelectStudentById(newId);
-            
+
             if (student != null && notExistStudent == null)
             {
                 isf.DeleteStudentById(id);
@@ -94,6 +101,31 @@ namespace ClassManagementSystem.business
             {
                 return false;
             }
+        }
+
+        public void ChangeStudentName(int id, string NewName)
+        {
+            StudentEntity student = isf.SelectStudentById(id);
+
+            isf.DeleteStudentById(id);
+            student.name = NewName;
+            isf.InsertStudent(student);
+        }
+
+        public void ChangeStudentSubject(int id, string subject)
+        {
+            StudentEntity student = isf.SelectStudentById(id);
+            isf.DeleteStudentById(id);
+            student.subject = subject;
+            isf.InsertStudent(student);
+        }
+
+        public void ChangeStudentSex(int id, string newSex)
+        {
+            StudentEntity student = isf.SelectStudentById(id);
+            isf.DeleteStudentById(id);
+            student.sex = newSex;
+            isf.InsertStudent(student);
         }
     }
 }

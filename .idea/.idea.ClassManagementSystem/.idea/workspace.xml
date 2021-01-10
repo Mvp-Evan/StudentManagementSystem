@@ -6,36 +6,38 @@
     <projectFile>systemDisplayLayer/systemDisplayLayer.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
-    <expand />
-    <select />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="delete some bad files">
-      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/Interface/IStudentBusiness.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/functionInterface/ITeacherFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/functionInterface/ITeacherFunctions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/functionInterface/TeacherFunctions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/functionInterface/TeacherFunctions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/obj/Debug/netcoreapp3.0/dataAccessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/obj/Debug/netcoreapp3.0/dataAccessLayer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAccessLayer/obj/Debug/netcoreapp3.0/dataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dataAccessLayer/obj/Debug/netcoreapp3.0/dataAccessLayer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/Interface/IStudentBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/Interface/IStudentBusiness.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/business/StudentBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/business/StudentBusiness.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/dataAccessLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemDisplayLayer.dll" afterDir="false" />
@@ -110,8 +112,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f7f68507-263f-47c4-85e9-07b165d2d269/console.sql" />
         <option value="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" />
         <option value="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" />
-        <option value="$PROJECT_DIR$/systemBusinessLayer/business/StudentBusiness.cs" />
         <option value="$PROJECT_DIR$/systemBusinessLayer/Interface/IStudentBusiness.cs" />
+        <option value="$PROJECT_DIR$/systemBusinessLayer/business/StudentBusiness.cs" />
         <option value="$PROJECT_DIR$/systemDisplayLayer/Program.cs" />
       </list>
     </option>
@@ -208,7 +210,7 @@
       <workItem from="1609987373068" duration="183000" />
       <workItem from="1609999008643" duration="7913000" />
       <workItem from="1610078981085" duration="14478000" />
-      <workItem from="1610108764374" duration="2215000" />
+      <workItem from="1610108764374" duration="4815000" />
     </task>
     <task id="LOCAL-00001" summary="take back database file">
       <created>1609766924981</created>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610011249160</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add some functions for student on display layer and business layer">
+      <created>1610249026587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610249026587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +306,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -324,7 +333,8 @@
     <MESSAGE value="debug about database connection and finished control layer with database" />
     <MESSAGE value="make a business layer and display layer framework" />
     <MESSAGE value="finished teacher login" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished teacher login" />
+    <MESSAGE value="Add some functions for student on display layer and business layer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some functions for student on display layer and business layer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="163" key="#HTTP_Proxy" timestamp="1608010849793">
@@ -351,37 +361,37 @@
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920936145" />
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011782191" />
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1609941649960" />
-    <state width="1862" height="513" key="GridCell.Tab.0.bottom" timestamp="1610095440069">
+    <state width="1862" height="245" key="GridCell.Tab.0.bottom" timestamp="1610252640430">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609942206431" />
+    <state width="1862" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610252640430" />
     <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
-    <state width="1862" height="513" key="GridCell.Tab.0.center" timestamp="1610095440069">
+    <state width="1862" height="245" key="GridCell.Tab.0.center" timestamp="1610252640430">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.center/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.center/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609942206431" />
+    <state width="1862" height="245" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610252640430" />
     <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
-    <state width="1862" height="513" key="GridCell.Tab.0.left" timestamp="1610095440069">
+    <state width="1862" height="245" key="GridCell.Tab.0.left" timestamp="1610252640429">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.left/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.left/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609942206430" />
+    <state width="1862" height="245" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610252640429" />
     <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
-    <state width="1862" height="513" key="GridCell.Tab.0.right" timestamp="1610095440069">
+    <state width="1862" height="245" key="GridCell.Tab.0.right" timestamp="1610252640430">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.right/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.right/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609942206431" />
+    <state width="1862" height="245" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610252640430" />
     <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
     <state width="1862" height="513" key="GridCell.Tab.1.bottom" timestamp="1610095440069">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -528,11 +538,11 @@
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="VCS.FileHistoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974555" />
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1610011255059">
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1610249032745">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011255059" />
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1609937202763" />
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1610249032745" />
     <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1609919794697">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
