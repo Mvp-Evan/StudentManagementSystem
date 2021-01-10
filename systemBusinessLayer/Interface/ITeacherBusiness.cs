@@ -3,6 +3,12 @@ namespace ClassManagementSystem.Interface
     public interface ITeacherBusiness
     {
         /**
+         * @param id
+         * judge teacher if exists
+         */
+        public bool TeacherIsExists(int id);
+        
+        /**
          * @param id, name, major, passwd
          * This function interface can create a teacher entity and save into database by these param
          */

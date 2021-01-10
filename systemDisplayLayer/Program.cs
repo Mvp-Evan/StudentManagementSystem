@@ -17,6 +17,12 @@ namespace systemDisplayLayer
             .BuildServiceProvider()
             .GetService<IStudentBusiness>();
         
+        private static IClassBusiness icb = new ServiceCollection()
+            .AddSingleton<IClassBusiness, ClassBusiness>()
+            .BuildServiceProvider()
+            .GetService<IClassBusiness>();
+
+        
         static void Main(string[] args)
         {
             Login();
@@ -392,12 +398,213 @@ namespace systemDisplayLayer
             }
             Work();
         }
-        
-        static void CreateClass(){}
-        
-        static void DeleteClass(){}
-        
-        static void ModifyClass(){}
+
+        static void CreateClass()
+        {
+            int id;
+            string idTry, name;
+            
+            while (true)
+            {
+                Console.WriteLine("Please Enter The Class ID: ");
+                idTry = Console.ReadLine();
+                try
+                {
+                    id = Int32.Parse(idTry);
+                    if (icb.ClassIsExists(id))
+                    {
+                        Console.WriteLine("Create Error, ID is Exists!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Please Enter Name of Class: ");
+                        name = Console.ReadLine();
+                        icb.CreateClass(id, name);
+                        Console.WriteLine("Create Class Successful!");
+                    }
+                    break;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("ID Must Be A Number! ");
+                    continue;
+                    throw;
+                }
+            }
+        }
+
+        static void DeleteClass()
+        {
+            int id;
+            string idTry;
+
+            while (true)
+            {
+                Console.WriteLine("Please Enter The ID of Class: ");
+                idTry = Console.ReadLine();
+                try
+                {
+                    id = Int32.Parse(idTry);
+                    if (icb.ClassIsExists(id))
+                    {
+                        icb.DeleteClass(id);
+                        Console.WriteLine("Delete Class Successful!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Delete Error, Class ID Is Not Exists!");
+                    }
+                    break;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Class ID Must Be A Number!");
+                    continue;
+                    throw;
+                }
+            }
+        }
+
+        static void ModifyClass()
+        {
+            int choice, id;
+            string choiceTry, idTry;
+            while (true)
+            {
+                while (true)
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("Please Enter Class ID: ");
+                        idTry = Console.ReadLine();
+                        try
+                        {
+                            id = Int32.Parse(idTry);
+                            if (icb.ClassIsExists(id))
+                            {
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("This ID Is Not Exists! ");
+                            }
+
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("Please Enter A Number!");
+                            continue;
+                            throw;
+                        }
+                    }
+
+                    Console.WriteLine(
+                        "////////////////////////////////////////////////////////////////////////////////////" + "\n" +
+                        "/*                                Modify Class                                    */" + "\n" +
+                        "/*                                                                                */" + "\n" +
+                        "/*                                                                                */" + "\n" +
+                        "/*                              1. Change Class ID                                */" + "\n" +
+                        "/*                              2. Change Class Name                              */" + "\n" +
+                        "/*                              3. Change Class Teacher Belong                    */" + "\n" +
+                        "/*                              4. Exit                                           */" + "\n" +
+                        "/*                                                                                */" + "\n" +
+                        "/*                             Please Enter The Number                            */" + "\n" +
+                        "/*                                                                                */" + "\n" +
+                        "////////////////////////////////////////////////////////////////////////////////////" + "\n");
+                    choiceTry = Console.ReadLine();
+                    try
+                    {
+                        choice = Int32.Parse(choiceTry);
+                        break;
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine("Please Enter A Number!");
+                        continue;
+                        throw;
+                    }
+                }
+
+                if (choice == 1)
+                {
+                    int newId;
+                    string newIdTry;
+
+                    while (true)
+                    {
+                        Console.WriteLine("Please Enter The New ID of Class: ");
+                        newIdTry = Console.ReadLine();
+                        try
+                        {
+                            newId = Int32.Parse(newIdTry);
+                            if (icb.ChangeClassId(id, newId))
+                            {
+                                Console.WriteLine("Class ID Changed Successful!");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Class ID Changed Error, New Class ID is Already Exists!");
+                            }
+                            break;
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("Class ID Must Be A Number! ");
+                            continue;
+                            throw;
+                        }
+                    }
+                }
+                else if (choice == 2)
+                {
+                    string newName;
+                    Console.WriteLine("Please Enter The New Name of Class: ");
+                    newName = Console.ReadLine();
+                    icb.ChangeClassName(id, newName);
+                    Console.WriteLine("Class Name Changed Successful!");
+                }
+                else if (choice == 3)
+                {
+                    int newTeacherId;
+                    string newTeacherIdTry;
+
+                    while (true)
+                    {
+                        Console.WriteLine("Please Enter The Teacher ID: ");
+                        newTeacherIdTry = Console.ReadLine();
+                        try
+                        {
+                            newTeacherId = Int32.Parse(newTeacherIdTry);
+                            if (itb.TeacherIsExists(newTeacherId))
+                            {
+                                icb.ChangeClassTeacherBelong(id, newTeacherId);
+                                Console.WriteLine("Changed Class Teacher Belong Successful!");
+                            }
+                            else
+                            {
+                                Console.WriteLine("The Teacher ID Is Not Exists!");
+                            }
+                            break;
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("Teacher ID Must Be A Number!");
+                            continue;
+                            throw;
+                        }
+                    }
+                }
+                else if (choice == 4)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("This Choice is Not Exists! ");
+                }
+                Work();
+            }
+        }
 
         static void AddStudentIntoClass()
         {

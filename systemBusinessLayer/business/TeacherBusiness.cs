@@ -12,6 +12,12 @@ namespace ClassManagementSystem.business
             .AddSingleton<ITeacherFunctions, TeacherFunctions>()
             .BuildServiceProvider()
             .GetService<ITeacherFunctions>();
+
+        public bool TeacherIsExists(int id)
+        {
+            TeacherEntity teacher = itf.SelectTeacherById(id);
+            return teacher != null;
+        }
         
         public void AddTeacher(int id, string name, string major, string passwd)
         {
