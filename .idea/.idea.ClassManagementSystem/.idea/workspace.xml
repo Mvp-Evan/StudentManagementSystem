@@ -31,17 +31,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1462bc06-ab0f-4df1-b2cc-90ba7424cda1" name="Default Changelist" comment="delete some bad files">
-      <change afterPath="$PROJECT_DIR$/systemBusinessLayer/Interface/IClassBusiness.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClassManagementSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/business/ClassBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/business/ClassBusiness.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemBusinessLayer/obj/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/systemDisplayLayer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/data.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/systemDisplayLayer/bin/Debug/netcoreapp3.0/systemBusinessLayer.pdb" afterDir="false" />
@@ -68,7 +66,6 @@
     <setting file="file://$PROJECT_DIR$/dataAccessLayer/functionInterface/ITeacherFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F22993E-2191-4253-8BC4-D1A5A5B4B7F2/31/65897f50/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2B0EF7B-A8C3-4AF1-95CC-501C0131D7BA/96/2a850e4b/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/evan/Documents/document_deepin/中法计181/easy command/dotnet/ClassManagementSystem/systemBusinessLayer/business/ClassBusiness.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D2B0EF7B-A8C3-4AF1-95CC-501C0131D7BA/C/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4CCFD8A4-C358-4887-B52E-A57659FB6F76/8/Queryable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A310D888-CD33-4E41-BA23-939A9943ED39/A/SqliteDbContextOptionsBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -122,6 +119,7 @@
         <option value="$PROJECT_DIR$/systemBusinessLayer/business/TeacherBusiness.cs" />
         <option value="$PROJECT_DIR$/systemBusinessLayer/Interface/ITeacherBusiness.cs" />
         <option value="$PROJECT_DIR$/systemDisplayLayer/Program.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -135,12 +133,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34997258" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005485" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SQLite" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -217,7 +218,8 @@
       <workItem from="1609987373068" duration="183000" />
       <workItem from="1609999008643" duration="7913000" />
       <workItem from="1610078981085" duration="14478000" />
-      <workItem from="1610108764374" duration="8894000" />
+      <workItem from="1610108764374" duration="9122000" />
+      <workItem from="1610275856896" duration="4226000" />
     </task>
     <task id="LOCAL-00001" summary="take back database file">
       <created>1609766924981</created>
@@ -275,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610254227486</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All functions of class part was finished">
+      <created>1610258278613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610258278613</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +358,8 @@
     <MESSAGE value="finished teacher login" />
     <MESSAGE value="Add some functions for student on display layer and business layer" />
     <MESSAGE value="All functions of student part was finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="All functions of student part was finished" />
+    <MESSAGE value="All functions of class part was finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="All functions of class part was finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="163" key="#HTTP_Proxy" timestamp="1608010849793">
@@ -363,12 +373,12 @@
     <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920938538" />
     <state x="779" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011785600" />
     <state x="560" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609808492323" />
-    <state x="490" y="310" width="900" height="460" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610011734667">
+    <state x="490" y="310" width="920" height="460" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610276696515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920421765" />
     <state x="490" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011734667" />
-    <state x="490" y="310" width="900" height="460" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1609808385022" />
+    <state x="490" y="310" width="920" height="460" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1610276696515" />
     <state x="686" y="207" key="FileChooserDialogImpl" timestamp="1610254344538">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -376,37 +386,37 @@
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609920936145" />
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011782191" />
     <state x="686" y="207" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1610254344538" />
-    <state width="1862" height="402" key="GridCell.Tab.0.bottom" timestamp="1610256644183">
+    <state width="1862" height="402" key="GridCell.Tab.0.bottom" timestamp="1610268995606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610256644183" />
+    <state width="1862" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1610268995606" />
     <state width="1862" height="362" key="GridCell.Tab.0.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
-    <state width="1862" height="402" key="GridCell.Tab.0.center" timestamp="1610256644182">
+    <state width="1862" height="402" key="GridCell.Tab.0.center" timestamp="1610268995605">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.center/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.center/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="402" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610256644182" />
+    <state width="1862" height="402" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1610268995605" />
     <state width="1862" height="362" key="GridCell.Tab.0.center/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
-    <state width="1862" height="402" key="GridCell.Tab.0.left" timestamp="1610256644180">
+    <state width="1862" height="402" key="GridCell.Tab.0.left" timestamp="1610268995604">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.left/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.left/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="402" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610256644180" />
+    <state width="1862" height="402" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1610268995604" />
     <state width="1862" height="362" key="GridCell.Tab.0.left/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974460" />
-    <state width="1862" height="402" key="GridCell.Tab.0.right" timestamp="1610256644182">
+    <state width="1862" height="402" key="GridCell.Tab.0.right" timestamp="1610268995605">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="447" key="GridCell.Tab.0.right/0.0.1920.1006/1920.180.1440.900@0.0.1920.1006" timestamp="1610008559345" />
     <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925610813" />
     <state width="1862" height="513" key="GridCell.Tab.0.right/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610095440069" />
-    <state width="1862" height="402" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610256644182" />
+    <state width="1862" height="402" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1610268995605" />
     <state width="1862" height="362" key="GridCell.Tab.0.right/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974461" />
     <state width="1862" height="513" key="GridCell.Tab.1.bottom" timestamp="1610095440069">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -544,20 +554,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="455" y="212" width="1000" height="675" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1609649069814" />
-    <state x="374" y="77" width="1181" height="925" key="SettingsEditor" timestamp="1610248573145">
+    <state x="374" y="77" width="1181" height="925" key="SettingsEditor" timestamp="1610280428714">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="374" y="77" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609925131516" />
-    <state x="374" y="77" width="1181" height="925" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1610248573145" />
+    <state x="374" y="77" width="1181" height="925" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1610280428714" />
     <state x="100" y="100" width="1720" height="880" key="VCS.FileHistoryDialog" timestamp="1609808974555">
       <screen x="0" y="0" width="3840" height="1080" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="VCS.FileHistoryDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1609808974555" />
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1610254235247">
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2" timestamp="1610258284427">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610011255059" />
-    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1610254235247" />
+    <state x="460" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1610258284427" />
     <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1609919794697">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -570,12 +580,12 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="914" y="210" width="784" height="655" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609768321025" />
-    <state x="661" y="436" width="598" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610254254636">
+    <state x="661" y="436" width="597" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610275868196">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="661" y="436" width="598" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1609919315590" />
     <state x="661" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.180.1440.900@0.0.1920.1080" timestamp="1610078991935" />
-    <state x="661" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1610254254636" />
+    <state x="661" y="436" width="597" height="228" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1610275868196" />
     <state x="540" y="238" key="run.anything.popup" timestamp="1609924968218">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
